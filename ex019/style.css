@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(32, 255, 143, 0.432);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #0A502F;
+}
+
+h2 {
+    color: #00924e;
+}
+
+#topo-do-site {
+    text-align: center;
+    color: #fff;
+    background-color: rgb(0, 73, 37);
+}
+
+.basico {
+    color: #00924e;
+}
+
+.inter {
+    color: #849200;
+}
+
+.avancado {
+    color: #920000;
+}
+
+.destaque {
+    color: hsl(251, 100%, 49%);
+}
